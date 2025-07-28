@@ -27,7 +27,7 @@ Start the application with the following command:
 streamlit run app.py
 ```
 
-The app will be available in your web browser at `http://localhost:8501`
+The app will be available in your web browser at 'https://plantspeak-7yrxhom64ucrsfzkh8jcwj.streamlit.app/'
 
 ## Data Storage
 
